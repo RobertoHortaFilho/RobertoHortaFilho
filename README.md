@@ -1,7 +1,8 @@
 Oii !! eu sou o roberto. 😀
 
-- 📚 Atualmente estudando mais sobre criaçao de Api.
-- 👦 Ele/Dele.
+- 📚 Atualmente estudando banco de dados relacionais/ mysql.
+- desenvolvedor front end
+- estudando pela trybe
 
 <div align="center">
   <a href="https://github.com/robertoHortaFilho">
