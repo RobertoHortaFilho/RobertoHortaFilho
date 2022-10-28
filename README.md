@@ -7,8 +7,8 @@ Oii !! eu sou o roberto. 😀
 
 <div align="center">
   <a href="https://github.com/robertoHortaFilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoHortaFilho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoHortaFilho&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=robertoHortaFilho&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoHortaFilho&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,9 +22,8 @@ Oii !! eu sou o roberto. 😀
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
-  
   <a href="https://www.linkedin.com/in/robertohortafilho/">
-    <img align="right" alt="pic" height="100" style="border-radius:50px;margin-right:20px;" 
+    <img align="right" alt="pic" height="60" style="border-radius:200em;margin-right:20px;" 
     src="https://cdn.discordapp.com/attachments/835338842365493288/954540489003114517/dark.png">
   <a/>
 </div>
