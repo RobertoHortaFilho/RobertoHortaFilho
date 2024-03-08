@@ -1,13 +1,14 @@
 ###### Sobre
 Oii!!! eu sou o roberto. 😀
 
-- 📚 Atualmente estudando backend pela [Trybe](https://www.betrybe.com) (Escola de tecnologia).
+- 🌠 Atualmente me especializando em next.js.
 - 👨‍💻 Desenvolvedor FullStack web, e Mobile.
 - 🎮 Apaixonado por jogos e suas possibilidades infinitas.
 - 📖 Gosto de ler livros mais técnicos e de psicologia.
 - 🎭 Entusiasta de arte, gosto de fazer muita bagunça e criar coisas novas.
 - 👒 Nas horas vagas tento colocar em dia os animes.
 - 🌎 [Linkedin](https://www.linkedin.com/in/robertohortafilho/) para me conhecer melhor.
+- 📚 Finalizado curso pela [Trybe](https://www.betrybe.com) (Escola de tecnologia).
 
 ###### Meu cantinho 📦
 
