@@ -45,7 +45,6 @@ Oii!!! eu sou o roberto. 😀
   <img align="center" alt="NPM" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="DOCKER" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="LUA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />    
     
   <a href="https://www.linkedin.com/in/robertohortafilho/">
     <img align="right" alt="pic" height="60" style="border-radius:200em;margin-right:20px;" 
