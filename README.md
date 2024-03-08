@@ -48,7 +48,7 @@ Oii!!! eu sou o roberto. 😀
     
   <a href="https://www.linkedin.com/in/robertohortafilho/">
     <img align="right" alt="pic" height="60" style="border-radius:200em;margin-right:20px;" 
-    src="https://github.com/RobertoHortaFilho/RobertoHortaFilho/blob/main/perfil.png">
+    src="https://github.com/RobertoHortaFilho/RobertoHortaFilho/blob/main/perfil-picture.png">
   <a/>
 </div>
 
